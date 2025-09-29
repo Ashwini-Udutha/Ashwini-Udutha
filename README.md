@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwini Udutha  
 
-<!--
-**Ashwini-Udutha/Ashwini-Udutha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **System Validation Engineer** | **EV Charging (OBC/EVSE)** | **Cybersecurity Enthusiast**  
+🔹 Passionate about embedded systems, HIL testing, and building automation tools with Python.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Languages & Scripting:** Python, C, C++,capl
+- **Embedded Testing:** HIL (Vector VT System), CANoe, CANalyzer  
+- **Automation & Tools:** Git, Linux, MATLAB/Simulink
+- **Domains:** EV Charging, Diagnostics, Cybersecurity, 
+- **Standards:** ISO 26262, ASPICE, ISTQB Certified 
+---
+---
+
+## 📊 GitHub Stats  
+![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwini-udutha&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashwini-udutha-059700129/)  
+📧 Email: ashwiniudutha1998@gmail.com  
